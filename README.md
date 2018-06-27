@@ -4,19 +4,22 @@ Here you can view a few of my details including links to various projects I'm wo
 
 ### About Me
 
-I'm an IT pro who's been doing a lot of consulting work recently, but I'm getting back to GitHub with a fresh account (my first account was REALLY old) and a fresh start to dive back into coding in earnest while I studying for a few different certification exams. As you can probably tell, I don't really like downtime much so I tend to be busy with self-improvement in all kinds of ways. Lately, it's been coding and studying for some tech-related certs, but it could be just communing with nature once in a while to clear away the junk in my brain for a few minutes or to visit a museum or two for some cultural enrichment. I'm an avid lifelong learner and will always be seeking the next opportunity to learn something new or improve myself in some way or another.
-
-Feel free to visit this page often as I'll be doing little tweaks every now and then.
-
-## Projects
-
-I'm just keeping a placeholder here while I gather my offline materials into new Github repos. I'll be linking to the repos in this section so feel free to check back later.
+I'm an IT pro who's been doing a lot of consulting work recently, but I'm getting back to GitHub with a fresh account _(my first account was REALLY old)_ and a fresh start to dive back into coding in earnest while I'm studying for a few different certification exams. As you can probably tell, I don't really like downtime much so I tend to be busy with self-improvement in all kinds of ways. Lately, it's been coding and studying for some tech-related certs, but it could be just communing with nature once in a while to clear away the junk in my brain for a few minutes or to visit a museum or two for some cultural enrichment. I'm an avid lifelong learner and will always be seeking the next opportunity to learn something new or improve myself in some way or another.
 
 ## Experience
 
 As I mentioned above, I've been doing a lot of consulting work for the last couple of years. Since I have a hybrid business/tech background, I've been doing a little of both. Everything from helping small business owners to navigate some better ways to market their products all the way up to digging into the HTML of a few different websites and spinning up new SQL DBs to house client information.
 
 I've worked for various different companies, everything from small little mom-and-pop shops with less than 20 people all the way up to global corporations like The Walt Disney Company and Blizzard Entertainment.
+
+## Education
+
+**Master of Science, Leadership**<br>
+**Concentration: Leading and Managing Technical Projects**<br>
+_Northeastern University, Boston, Massachusetts_<br>
+
+**Bachelor of Science, Business Information Systems**<br>
+_Oregon State University, Corvallis, Oregon_
 
 ## Skills
 
@@ -47,13 +50,10 @@ Some things that I'm particularly proud of include:
 - Promoted from Level 1 Technician to Supervisor in less than half the time of predecessors
 - Member of Alpha Lambda Delta National Honor Society, Oregon State University Chapter
 
-## Education
+## Projects
 
-**Master of Science, Leadership**<br>
-**Concentration: Leading and Managing Technical Projects**<br>
-_Northeastern University, Boston, Massachusetts_<br>
+I'm just keeping a placeholder here while I gather my offline materials into new Github repos. I'll be linking to the repos in this section so feel free to check back later.
 
-**Bachelor of Science, Business Information Systems**<br>
-_Oregon State University, Corvallis, Oregon_
+<p align="center">~*~</p>
 
 That's basically me in a nutshell. As I mentioned before, I'll be continuously adding my offline projects to repos and linking them on this page so feel free to check back.
