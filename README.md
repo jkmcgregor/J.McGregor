@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+## Welcome to My Page!
 
-You can use the [editor on GitHub](https://github.com/jkmcgregor/jkmcgregor.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here you can view a few of my details including links to various projects I'm working on currently (or will be in the near future).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
 
-### Markdown
+I'm an IT pro who's been doing a lot of consulting work recently, but I'm getting back to GitHub with a fresh account (my first account was REALLY old) and a fresh start to dive back into coding in earnest while I studying for a few different certification exams. As you can probably tell, I don't really like downtime much so I tend to be busy with self-improvement in all kinds of ways. Lately, it's been coding and studying for some tech-related certs, but it could be just communing with nature once in a while to clear away the junk in my brain for a few minutes or to visit a museum or two for some cultural enrichment. I'm an avid lifelong learner and will always be seeking the next opportunity to learn something new or improve myself in some way or another.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Feel free to visit this page often as I'll be doing little tweaks every now and then.
 
-```markdown
-Syntax highlighted code block
+## Projects
 
-# Header 1
-## Header 2
-### Header 3
+I'm just keeping a placeholder here while I gather my offline materials into new Github repos. I'll be linking to the repos in this section so feel free to check back later.
 
-- Bulleted
-- List
+## Experience
 
-1. Numbered
-2. List
+As I mentioned above, I've been doing a lot of consulting work for the last couple of years. Since I have a hybrid business/tech background, I've been doing a little of both. Everything from helping small business owners to navigate some better ways to market their products all the way up to digging into the HTML of a few different websites and spinning up new SQL DBs to house client information.
 
-**Bold** and _Italic_ and `Code` text
+I've worked for various different companies, everything from small little mom-and-pop shops with less than 20 people all the way up to global corporations like The Walt Disney Company and Blizzard Entertainment.
 
-[Link](url) and ![Image](src)
-```
+## Skills
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+When it comes to my skills, I'm fairly adept at a few things. For example, I've been the go-to IT person in my family since I was about 10 years old. My toy store in elementary school was more Fry's than F.A.O. Schwarz. And by the time I actually went to college to learn more about tech, I'd built a few dozen systems from scratch and had learned a thing or two about some basic HTML programming.
 
-### Jekyll Themes
+In terms of specifics...
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jkmcgregor/jkmcgregor.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Computer Skills
 
-### Support or Contact
+- Highly Adept with Microsoft products including the Office Suite, Visual Studio, Visio, OneNote, Outlook, SharePoint, & Project
+- Experience with Windows, Linux (Ubuntu, CentOS, Debian), & Mac OSX operating systems
+- Over 3 years of experience with C, C#, & SQL programming
+- Adept with IT support tools such as Wireshark, Remedy, and Atlassian JIRA
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Interpersonal Skills
+
+- Excellent Oral & Written Communication Skills
+- Strong Organizational Skills
+- Effective Time Management/Prioritization & Multi-tasking Abilities
+- High Integrity & Sense of Responsibilty
+- Stellar Team Player & Motivator
+
+## Honors & Achievements
+
+Some things that I'm particularly proud of include:
+
+- Developed a fully functional game for Harvard University’s CS50 course (https://scratch.mit.edu/projects/3127961/)
+- Promoted from Level 1 Technician to Supervisor in less than half the time of predecessors
+- Member of Alpha Lambda Delta National Honor Society, Oregon State University Chapter
+
+## Education
+
+**Master of Science, Leadership**<br>
+**Concentration: Leading and Managing Technical Projects**<br>
+_Northeastern University, Boston, Massachusetts_<br>
+
+**Bachelor of Science, Business Information Systems**<br>
+_Oregon State University, Corvallis, Oregon_
+
+That's basically me in a nutshell. As I mentioned before, I'll be continuously adding my offline projects to repos and linking them on this page so feel free to check back.
