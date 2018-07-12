@@ -1,4 +1,4 @@
-## Welcome to My Page!
+Title: Welcome to My Page!
 
 Here you can view a few of my details including links to various projects I'm working on currently (or will be in the near future).
 
@@ -52,7 +52,7 @@ Some things that I'm particularly proud of include:
 
 ## Projects
 
-I'm just keeping a placeholder here while I gather my offline materials into new Github repos. I'll be linking to the repos in this section so feel free to check back later.
+[Here's a link back to my programming projects repo on Github](https://github.com/jkmcgregor/Programming-Projects)
 
 <p align="center">~*~</p>
 
