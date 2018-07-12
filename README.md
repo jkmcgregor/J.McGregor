@@ -1,8 +1,8 @@
-Title: Welcome to My Page!
+## Welcome to My Page!
 
 Here you can view a few of my details including links to various projects I'm working on currently (or will be in the near future).
 
-### About Me
+## About Me
 
 I'm an IT pro who's been doing a lot of consulting work recently, but I'm getting back to GitHub with a fresh account _(my first account was REALLY old)_ and a fresh start to dive back into coding in earnest while I'm studying for a few different certification exams. As you can probably tell, I don't really like downtime much so I tend to be busy with self-improvement in all kinds of ways. Lately, it's been coding and studying for some tech-related certs, but it could be just communing with nature once in a while to clear away the junk in my brain for a few minutes or to visit a museum or two for some cultural enrichment. I'm an avid lifelong learner and will always be seeking the next opportunity to learn something new or improve myself in some way or another.
 
