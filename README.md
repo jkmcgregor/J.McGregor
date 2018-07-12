@@ -46,13 +46,13 @@ In terms of specifics...
 
 Some things that I'm particularly proud of include:
 
-- Developed a fully functional game for Harvard University’s CS50 course (https://scratch.mit.edu/projects/3127961/)
+- [Developed a fully functional game for Harvard University’s CS50 course](https://scratch.mit.edu/projects/3127961/)
 - Promoted from Level 1 Technician to Supervisor in less than half the time of predecessors
 - Member of Alpha Lambda Delta National Honor Society, Oregon State University Chapter
 
 ## Projects
 
-### <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> [Here's a link back to my programming projects repo on Github](https://github.com/jkmcgregor/Programming-Projects)
+[Here's a link back to my programming projects repo on Github](https://github.com/jkmcgregor/Programming-Projects)
 
 <p align="center">~*~</p>
 
