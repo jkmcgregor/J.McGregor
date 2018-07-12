@@ -52,7 +52,7 @@ Some things that I'm particularly proud of include:
 
 ## Projects
 
-<p align="center">[Here's a link back to my programming projects repo on Github](https://github.com/jkmcgregor/Programming-Projects)</p>
+### <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> [Here's a link back to my programming projects repo on Github](https://github.com/jkmcgregor/Programming-Projects)
 
 <p align="center">~*~</p>
 
