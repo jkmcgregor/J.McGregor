@@ -52,7 +52,7 @@ Some things that I'm particularly proud of include:
 
 ## Projects
 
-[Here's a link back to my programming projects repo on Github](https://github.com/jkmcgregor/Programming-Projects)
+<p align="center">[Here's a link back to my programming projects repo on Github](https://github.com/jkmcgregor/Programming-Projects)</p>
 
 <p align="center">~*~</p>
 
